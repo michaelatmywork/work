@@ -1,0 +1,15 @@
+smoreeme
+let ar=[1,2,3]
+let st='this is my own job'
+echom join(ar).' I am back'
+echom split(st)
+
+let di={'a':'abc', 2:'number'}
+let ar1= items(di)
+echom di.a di.2
+echom di['a'] di[2]
+echo ar1[0] ar[1]
+echom system("ls")
+some
+bad
+some
